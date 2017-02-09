@@ -8,6 +8,7 @@ namespace számologép_II_FÉ_1HF
 {
     class calculator
     {
+        public const double pi = 3.14 ;
         public static double Osszead(double egyikszam, double masikszam)
         {
             return egyikszam + masikszam;
